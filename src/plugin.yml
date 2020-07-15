@@ -1,0 +1,6 @@
+name: Infinite
+version: 1.0
+api-version: 1.14
+main: com.phoenixgames.infinite.InfiniteGame
+author: Killax
+load: STARTUP
